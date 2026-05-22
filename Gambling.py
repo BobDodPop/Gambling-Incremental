@@ -1,12 +1,12 @@
 import random
 
-points = 100
+points = 0
 gambling = True
 result = 0
 min_roll = 1
 max_roll = 100
 
-def gamble:
+def gamble():
 	choice = "."
 	result = random.randint(min_roll, max_roll)
 	points += result/100
