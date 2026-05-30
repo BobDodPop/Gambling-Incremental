@@ -1,7 +1,8 @@
 body {
-    background-color: rgb(175, 175, 175);
+    background-color: rgb(140, 155, 90);
     font-family: 'Times New Roman', Times, serif;
     margin: 20px;
+    text-align: center;
 }
 
 h1 {
